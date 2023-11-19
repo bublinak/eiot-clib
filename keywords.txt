@@ -1,0 +1,32 @@
+# Syntax Coloring Map:
+# Datatypes = KEYWORD1
+# Methods and Functions = KEYWORD2
+# Instances = KEYWORD2
+# Constants = LITERAL1
+
+reedPin  LITERAL1
+rstPin   LITERAL1
+sdaPin   LITERAL1
+dhtPin   LITERAL1
+sckPin   LITERAL1
+fButton  LITERAL1
+buzzPin  LITERAL1
+rLedPin  LITERAL1
+yLedPin  LITERAL1
+bLedPin  LITERAL1
+gLedPin  LITERAL1
+pwOutPin LITERAL1
+btnPin   LITERAL1
+sclPin   LITERAL1
+lSensPin LITERAL1
+
+set     KEYWORD2
+board   KEYWORD1
+
+buzzer 	KEYWORD1
+leds 	KEYWORD1
+pwOut 	KEYWORD1
+button 	KEYWORD1
+rgb 	KEYWORD1
+relay 	KEYWORD1
+all 	KEYWORD1
